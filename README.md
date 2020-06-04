@@ -44,9 +44,13 @@ You can use for example: `screen.stringXy(0, 5, 10, { "1", C_BLACK, C_BLUE, fals
 ### Other useful stuff
 
 Clear screen: `clearScreen()`
+
 Move cursor: `gotoXy(x,y)`
+
 Hide cursor: `hideCursor()`
+
 Show cursor: `showCursor()`
+
 Reset text color to defaults: `textReset()`
 
 Number of layers can be changed by modifying `MAXLAYERS`
