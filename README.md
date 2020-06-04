@@ -53,6 +53,8 @@ Show cursor: `showCursor()`
 
 Reset text color to defaults: `textReset()`
 
+Get screen dimensions: `getScreenWidth()` and `getScreenHeight()`
+
 Number of layers can be changed by modifying `MAXLAYERS`
 
 Color code constants:
@@ -81,7 +83,7 @@ const int   C_BLACK   = 0,
             C_BGTRANS = 8;  // default transparent bg color -> ANSI 49m
 ```
 
-### Projects that include screen.h
+### Projects using screen.h
 
 [https://deybacsi.github.io/terminalbot/](https://deybacsi.github.io/terminalbot/)
 
