@@ -81,7 +81,8 @@ const int   C_BLACK   = 0,
             C_BGTRANS = 8;  // default transparent bg color -> ANSI 49m
 ```
 
-### Projects what use screen.h
+### Projects that include screen.h
 
 [https://deybacsi.github.io/terminalbot/](https://deybacsi.github.io/terminalbot/)
+
 [https://deybacsi.github.io/asciiclock/](https://deybacsi.github.io/asciiclock/)
